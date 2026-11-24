@@ -1,16 +1,16 @@
 # HPF OS & NOVA
 
+<img src="assets/cover.png" alt="HPF OS & NOVA" width="100%">
+
 > A local-first work environment with a voice assistant that reformulates the app's own data.
 
-**AI-powered software ecosystem** · In daily use · Software & Artificial Intelligence  
-**Source code** · proprietary and private: this repository is documentation only.
+**Status** · In use &nbsp;·&nbsp; **Area** · Software & Artificial Intelligence &nbsp;·&nbsp; **Source code** · private, documentation only
 
-![NOVA orb, listening state · design mockup](assets/nova-orb-mockup.png)
+### At a glance
 
-## My role
-
-Software architecture and development.  
-The project started from organising studies, clinical work and design production in one place.
+- One place that answers: what should I do now?
+- Voice recognition and synthesis run locally.
+- The assistant never sees a patient name.
 
 ## The problem
 
@@ -20,6 +20,11 @@ There was no single place to answer the question: what should I do now?
 ## The solution
 
 One desktop environment that turns tasks, agenda, exams and production into clear priorities, with NOVA, a voice assistant that never sees patient names.
+
+## My role
+
+Software architecture and development.  
+The project started from organising studies, clinical work and design production in one place.
 
 ## Key features
 
@@ -42,7 +47,7 @@ All screenshots use demonstration or synthetic data.
 
 Electron · Node.js · SQLite · Python · faster-whisper · Kokoro · Piper · Anthropic Claude API
 
-## Architecture (simplified)
+## Architecture
 
 ![Simplified architecture of HPF OS & NOVA](assets/architecture.svg)
 
@@ -52,9 +57,9 @@ Electron · Node.js · SQLite · Python · faster-whisper · Kokoro · Piper · 
 
 ## Development status
 
-- In daily use since November 2026 as the author's own workstation environment.
+- In use since November 2026 as my own work environment.
 - NOVA voice in service since mid-November 2026; some optimisations are still under evaluation.
-- Personal tool: screenshots of the live app would show personal data, so only a design mockup is shown.
+- Screenshots of the live app would show personal data, so only a design mockup is shown.
 
 ## Privacy and code availability
 
@@ -62,10 +67,10 @@ Electron · Node.js · SQLite · Python · faster-whisper · Kokoro · Piper · 
 - Patient names are replaced by codes and long account numbers are stripped before any model call.
 - No payment and no deletion can be triggered by the assistant.
 - The source code of HPF OS & NOVA is proprietary and kept in a private repository.
-- This repository contains documentation and demonstration screenshots only: no source code, configuration, data or history from the private project.
+- This repository contains documentation and demonstration screenshots only.
 - Demonstrations can be arranged on request.
 
 ---
 
-Part of the [HPF Dental Solutions project portfolio](https://github.com/hpfdentalsolutions) · [hpfdentalsolutions.com](https://hpfdentalsolutions.com)  
+[Hugo Philippe Fusaro](https://github.com/hugophilippefusaro) · [HPF Dental Solutions](https://github.com/hpfdentalsolutions) · [hpfdentalsolutions.com](https://hpfdentalsolutions.com)  
 © 2026 Hugo Philippe Fusaro. All rights reserved on texts and images.
