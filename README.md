@@ -1,6 +1,6 @@
 # HPF OS & NOVA
 
-<img src="assets/cover.png" alt="HPF OS & NOVA" width="100%">
+<img src="assets/cover-2.png" alt="HPF OS & NOVA" width="100%">
 
 > A local-first work environment with a voice assistant that reformulates the app's own data.
 
